@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace bank
+{
+    public partial class frm_MusteriEkle : Form
+    {
+        public Banka Banka;
+        public frm_MusteriEkle(Banka Banka)
+        {
+            this.Banka = Banka;
+            InitializeComponent();
+        }
+        TicariMusteri ticari = new TicariMusteri();
+        BireyselMusteri bireysel = new BireyselMusteri();
+
+        private void btnEkle_Click(object sender, EventArgs e)
+        {
+            
+            dataGridView1.DataSource = null;
+            if (rdTicari.Checked==true)
+            {
+                ticari.TCKimlik = Convert.ToInt64(txtTc.Text);
+                ticari.Adi = txtAd.Text;
+                ticari.Soyadi = txtSoyad.Text;
+                ticari.Tur = rdTicari.Text;
+                Banka.MusteriEkle(ticari);                
+                dataGridView1.DataSource = Banka.Musteriler;
+                MessageBox.Show("Ticari Müşteri Eklendi");
+
+            }
+            else if(rdBireysel.Checked==true)
+            {
+                bireysel.TCKimlik = Convert.ToInt64(txtTc.Text);
+                bireysel.Adi = txtAd.Text;
+                bireysel.Soyadi = txtSoyad.Text;
+                bireysel.Tur = rdBireysel.Text;
+                Banka.MusteriEkle(bireysel);                     
+                dataGridView1.DataSource = Banka.Musteriler;
+                MessageBox.Show("Bireysel Müşteri Eklendi");
+            }
+            else
+                MessageBox.Show("Lütfen Müşteri Türünü Seçiniz");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void MusteriEkle_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

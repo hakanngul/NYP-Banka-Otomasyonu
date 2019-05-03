@@ -1,0 +1,51 @@
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\bin\Debug\bank.exe.config
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\bin\Debug\bank.exe
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\bin\Debug\bank.pdb
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.exe
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.pdb
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_Giris.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.exe.licenses
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_BankaMain.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_GirisEkrani.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_HesapAcma.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_MusteriEkle.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_Musteriler.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_BankaGiris.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_MusteriGirisi.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_HesapListele.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_HesapKapatma.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_MusteriMain.resources
+C:\Users\Hakan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\bank\bank\obj\Debug\bank.frm_ParaCek.resources
+C:\Users\Hakan\Desktop\bank\bank\bin\Debug\bank.exe.config
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.exe
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.pdb
+C:\Users\Hakan\Desktop\bank\bank\bin\Debug\bank.exe
+C:\Users\Hakan\Desktop\bank\bank\bin\Debug\bank.pdb
+C:\Users\Hakan\Desktop\bank\bank\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Hakan\Desktop\bank\bank\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_BankaGiris.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_BankaMain.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_Giris.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_GirisEkrani.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_HesapKapatma.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_HesapListele.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_MusteriMain.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_HesapAcma.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_MusteriEkle.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_MusteriGirisi.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_Musteriler.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.exe.licenses
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_ParaCek.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_ParaYatir.resources
+C:\Users\Hakan\Desktop\bank\bank\obj\Debug\bank.frm_Havale.resources
+C:\Users\Hakan\Desktop\HAKAN GÜL 172805016\BANKA OTOMASYON\bank\bin\Debug\bank.exe.config
+C:\Users\Hakan\Desktop\HAKAN GÜL 172805016\BANKA OTOMASYON\bank\obj\Debug\bank.exe
+C:\Users\Hakan\Desktop\HAKAN GÜL 172805016\BANKA OTOMASYON\bank\obj\Debug\bank.pdb
